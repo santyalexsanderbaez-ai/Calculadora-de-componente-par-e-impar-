@@ -1,3 +1,6 @@
 sympy
+streamlit
+numpy
+pandas
 flask
 flask-cors
